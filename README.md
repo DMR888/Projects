@@ -1,2 +1,2 @@
-# Projects
-Some of my College developed projects
+# Projetos
+Alguns projetos desenvolvidos no curso de Engenharia Informática
